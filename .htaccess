@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^(index|registration|mylogin|post|user_posts|category)$ $1.php [NC,L]
